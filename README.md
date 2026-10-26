@@ -33,13 +33,20 @@ GeneScope turns raw DNA/RNA sequences into meaningful biological insights. It su
 
 ## 📸 Screenshots
 
-| Home | Phylogenetic Tree |
+| Home (NCBI fetch) | Phylogenetic tree |
 |---|---|
+
 | ![Home](screenshots/home.png) | ![Tree](screenshots/tree.png) |
 
-| Mutation Finder | Disease Detector |
+| Gene detection + ML | Disease result |
 |---|---|
-| ![Mutation](screenshots/mutation.png) | ![Disease](screenshots/disease.png) |
+
+| ![Disease](screenshots/disease.png) | ![Result](screenshots/disease-result.png) |
+
+| Mutated percentage graph |
+|---|
+
+| ![Graph](screenshots/graph.png) |
 
 ## 🛠️ Tech Stack
 
