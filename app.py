@@ -17,7 +17,7 @@ MIN_ORF_PROTEIN_LENGTH = 3
 
 # NCBI asks for an email so they can contact you if there is a problem.
 # Replace this with your own email.
-NCBI_EMAIL = "your_email@example.com"
+NCBI_EMAIL = "xyz.com"
 
 # Normal (healthy) gene sequences. Positions count from the A of ATG.
 REFERENCE_GENES = {

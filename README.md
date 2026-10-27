@@ -2,6 +2,8 @@
 
 # 🧬 GeneScope
 
+🔗 **Live demo:** [genescope-app.streamlit.app](https://genescope-app.streamlit.app)
+
 **An interactive DNA/RNA sequence analysis and mutation-detection web app**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
